@@ -22,7 +22,7 @@ Follow the below instructions to get started with the source code:
 - [Maven Setup](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/setup-project-maven.html)
 - [AWS Lambda Examples](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/java_lambda_code_examples.html)
 - [AWS Lambda Example YT 1](https://www.youtube.com/watch?v=3oV4Nj_ruOA)
-- [AWS Lambda Example YT 2]([https://www.youtube.com/watch?v=3oV4Nj_ruOA](https://www.youtube.com/watch?v=wk8Lk8R7Pck&t=3s))
+- [AWS Lambda Example YT 2](https://www.youtube.com/watch?v=wk8Lk8R7Pck&t=3s)
   
 
 ## Dependencies
