@@ -17,6 +17,7 @@ Follow the below instructions to get started with the source code:
 
 ## Reference
 
+- [Why Spring Boot is not Recommended for Lambda](https://www.reddit.com/r/java/comments/y4kuvr/is_anyone_using_java_spring_boot_in_aws_lambda/)
 - [Amazon S3 Bucket Example](https://docs.aws.amazon.com/code-library/latest/ug/java_2_s3_code_examples.html)
 - [Maven Setup](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/setup-project-maven.html)
 - [AWS Lambda Examples](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/java_lambda_code_examples.html)
