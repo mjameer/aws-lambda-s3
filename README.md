@@ -1,6 +1,6 @@
 ## AWS Lambda Triggers on S3 Upload
 
-S3 Upload Triggers AWS Lambda using Java 21. 
+S3 Upload Triggers AWS Lambda using Java 21 and AWS SDK 2.x. 
 
 ## Getting Started
 
